@@ -1,0 +1,18 @@
+{
+   "name": "space-invaders",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "dev": "parcel ./index.html",
+      "build": "parcel build ./index.html"
+   },
+   "keywords": [],
+   "author": "Angelo Zambrano <angelozam17@gmail.com>",
+   "license": "MIT",
+   "devDependencies": {
+      "parcel-bundler": "^1.12.4",
+      "stylus": "^0.54.8",
+      "typescript": "^4.0.5"
+   }
+}
